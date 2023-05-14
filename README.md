@@ -127,8 +127,9 @@ QQ匹配有以下几个技术优点：
 ### 1.5 代码实现
 训练专业领域的词向量模型
 #### 1.5.1 word2vec
-
+代码可参考[FQA/word2vec](./FQA/word2vec)
 #### 1.5.2 sentence_bert
+代码可参考[FQA/sentence_bert](./FQA/sentence_bert)
 
 
 
